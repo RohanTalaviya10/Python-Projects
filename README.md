@@ -1,4 +1,4 @@
-# Python Projects Portfolio
+# Python Projects
 
 Welcome to the Python Projects section of my portfolio. Here, you will find a collection of diverse and impactful projects, showcasing my expertise in data science, mathematics, and programming. Each project reflects practical problem-solving, efficient coding, and actionable insights derived from real-world data. Below is a detailed breakdown of the projects, categorized by their core focus areas.
 
